@@ -1,0 +1,34 @@
+// js is a single threaded , synchronous blocking language.
+// js is a case sensitive language.
+// + operator is those which works for both number and string.
+// 1 + 1 = 2
+// "1" + "1" = "11"
+// 1 + "1" = "11" (if there is war between number and string , string operator always wins.)
+
+// by default a function will return undefined value.
+
+// all array method returns somethings, 
+// but push, pop, Unshift and shift method changes original array.
+// reverse, sort method return as well as change original array.
+
+// in primitives
+// for every let a now memory space is created
+
+// in non primitives
+// if there is let a new memory space is created but first it see weather the variable is copy of another variable
+// if the variable is copy of another variable then at the time
+// it will not create memory for that variable rather it share memory
+// in primitives === check whether value is same
+// in noprimitive === check whether the share same memory location.
+// setTimeout is 
+// Node has its special memory
+// any thing that push task to the background that is called asynchronous function.
+// call stack are those which runs javascript code.
+// if call stack is empty asynchronous task is transfer into 
+
+
+We cannot declare same variable twice in the same block
+  
+  Scope of variable.
+    A variable inside its block only.
+    Inside block it is known from where it is define.
